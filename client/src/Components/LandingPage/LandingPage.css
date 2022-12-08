@@ -1,0 +1,41 @@
+body{
+    background-image: url(../../images/wood-table-top-for-display-with-blurred-restaurant-background-free-photo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.information{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.titulo {
+    font-family: 'Noto Sans', sans-serif;
+    text-shadow: 7px 4px 5px #6f1d1b;
+    color: white;
+    font-size: 47px;
+}
+
+.button {
+    background-color: #6f1d1b;
+    border: none;
+    color: white;
+    padding: 6px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.button:hover {
+    background-color: rgb(255, 255, 255);
+    border-color: white;
+    color: rgb(5, 43, 11);
+    transition: 0,6s;
+}

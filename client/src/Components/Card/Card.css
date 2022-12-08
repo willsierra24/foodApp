@@ -1,0 +1,28 @@
+.card{
+    display: block;
+    margin: 30px;
+    text-decoration: none;
+    box-shadow: none;
+    background: rgb(109, 109, 109, 0.3);
+    width: 270px;
+    border-radius: 10px;
+    }
+    
+    .card:hover{
+        background-color: #FFE6A7;
+        transition: 0.5s;
+    }
+    
+    .title{
+        color: white;
+        text-decoration: none;
+        box-shadow: none;
+    }
+    
+    .genres{
+        text-decoration: none;
+        color: white;
+    }
+    
+
+    

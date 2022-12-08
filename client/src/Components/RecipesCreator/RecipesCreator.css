@@ -1,0 +1,42 @@
+
+
+.back{
+    color: white;
+    text-align: right;
+    display: inline-block;
+    margin-right: 20px;
+    border-color: white;
+    border-radius: 5px;
+    background-color: #6F1D1B;
+    border: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.back:hover{
+    background-color: #99582A;
+    color: white;
+}
+
+.back:link{
+    text-decoration: none;
+}
+.back:visited{
+    text-decoration: none;
+}
+.back:active{
+    text-decoration: none;
+}
+
+label{
+    color: white;
+}
+
+input, textarea{
+    margin-bottom: 10px;
+}
+
+.errors {
+    color: #eb0c08;
+}

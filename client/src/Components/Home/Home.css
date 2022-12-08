@@ -1,0 +1,59 @@
+.firstDiv{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+* {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.logo{
+    color: white;
+    display: block;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.cards {
+    justify-content: space-between;
+    display: inline-block;
+    }
+    
+    .create{
+        color: white;
+        text-align: right;
+        display: inline-block;
+        margin-right: 20px;
+        border-color: white;
+        border-radius: 5px;
+        background-color: #6F1D1B;
+        border: 20px;
+        padding: 15px;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    
+    .create:hover{
+        background-color: #99582A;
+        color: white;
+    }
+    
+    .create:link{
+        text-decoration: none;
+    }
+    .create:visited{
+        text-decoration: none;
+    }
+    .create:active{
+        text-decoration: none;
+    }
+    
+    .text:link{
+        text-decoration: none;
+    }
+    .text:visited{
+        text-decoration: none;
+    }
+    .text:active{
+        text-decoration: none;
+    }

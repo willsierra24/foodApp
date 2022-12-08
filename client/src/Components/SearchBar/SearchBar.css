@@ -1,0 +1,20 @@
+.searchBar{
+    text-align: right;
+    margin-right: 90px;
+}
+input{color: black;}
+
+button{
+    color: black;
+}
+
+ option {
+    color: black;
+}
+select{
+    color: black;
+}
+
+textarea{
+    color: black;
+}
